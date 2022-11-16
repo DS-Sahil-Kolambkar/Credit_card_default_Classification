@@ -53,3 +53,4 @@ In our dataset, We used many algorithm like Logistic Regression,Support vector c
 4. Random Forest Classifier has the best value of f1 score of 84%
 5. Random Forest Classifier has the best value of Roc_auc score of 84%
 6. Random Forest Classifier had average fitting time of 1.67 according to cross validate method of sklearn This proves Random Forest Classifier algorithm has perfectly fitted all the dataset.
+7. Random Forest Classifier had average fitting time of 1.67 according to cross validate method of sklearn This proves Random Forest Classifier algorithm has perfectly fitted all the dataset.
